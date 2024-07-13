@@ -24,7 +24,7 @@ ChatbotAI is a simple chatbot implemented in Python. It simulates human-like con
 **Conversation Loop:**
  The program runs an infinite loop, prompting the user for input. It exits when the user types "bye", "goodbye", or "exit".
 
-**Getting Started:**
+**Getting Started:** :-
 
 **Prerequisites:**-
  Python 3.x
