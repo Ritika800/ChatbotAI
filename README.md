@@ -1,4 +1,4 @@
-**CHATBOT AI**
+****CHATBOT AI****
 
 **Overview**
 
@@ -10,7 +10,7 @@ ChatbotAI is a simple chatbot implemented in Python. It simulates human-like con
  Random Responses: Generates random responses when no pattern matches.
  Loop Control: Continues the conversation until the user exits with "bye", "goodbye", or "exit".
 
-**How It Works:-**
+****How It Works:**-**
 
 **Importing Modules:**
  The program begins by importing the random and re modules.
@@ -24,16 +24,10 @@ ChatbotAI is a simple chatbot implemented in Python. It simulates human-like con
 **Conversation Loop:**
  The program runs an infinite loop, prompting the user for input. It exits when the user types "bye", "goodbye", or "exit".
 
-**Getting Started:-**
+****Getting Started:**-**
 
 **Prerequisites:**-
  Python 3.x
-
-**Installation:-**
-
- Clone the repository
- Navigate to the project directory
- Run the chatbot
 
 **Contributing:-**
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
@@ -41,7 +35,7 @@ Contributions are welcome! Please fork this repository and submit a pull request
 **License:-**
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-**Contact**
+****Contact****
 For any questions or feedback, feel free to reach out:-
 
 ** GitHub: **Ritika800
