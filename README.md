@@ -17,6 +17,7 @@ ChatbotAI is a simple chatbot implemented in Python. It simulates human-like con
  The program begins by importing the random and re modules.
 
 **Defining Responses:**
+
  Two lists are defined: user_inputs and bot_responses. These contain predefined patterns and their corresponding responses.
 
 **Generating Responses:**
