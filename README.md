@@ -7,7 +7,9 @@ ChatbotAI is a simple chatbot implemented in Python. It simulates human-like con
 **Features:-**
 
  Pattern Matching: Responds to user inputs using predefined patterns.
+
  Random Responses: Generates random responses when no pattern matches.
+
  Loop Control: Continues the conversation until the user exits with "bye", "goodbye", or "exit".
 
 **How It Works:**
